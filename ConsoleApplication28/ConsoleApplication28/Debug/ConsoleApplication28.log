@@ -1,0 +1,15 @@
+﻿  ConsoleApplication28.cpp
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(8): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "i"
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(8): warning C4552: "<": результат выражения не используется
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(8): error C2059: синтаксическая ошибка: ;
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(8): error C2059: синтаксическая ошибка: )
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(10): error C2059: синтаксическая ошибка: ;
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(15): error C2065: i: необъявленный идентификатор
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(18): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(18): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(19): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(19): error C2086: int cout: переопределение
+  c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(18): note:  см. объявление "cout"
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(20): error C2059: синтаксическая ошибка: }
+c:\users\user\source\repos\consoleapplication28\consoleapplication28\consoleapplication28.cpp(20): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

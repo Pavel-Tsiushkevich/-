@@ -1,0 +1,3 @@
+﻿  ConsoleApplication9.cpp
+c:\users\user\source\repos\consoleapplication9\consoleapplication9\consoleapplication9.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication9.vcxproj -> C:\Users\user\source\repos\ConsoleApplication9\Debug\ConsoleApplication9.exe

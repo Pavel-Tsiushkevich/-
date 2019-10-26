@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project39\project39\source.cpp(9): error C2664: "void compress(char *)": невозможно преобразовать аргумент 1 из "char" в "char *"
+  c:\users\user\source\repos\project39\project39\source.cpp(9): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции

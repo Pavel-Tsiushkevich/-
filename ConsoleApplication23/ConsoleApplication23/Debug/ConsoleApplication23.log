@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication23.cpp
+c:\users\user\source\repos\consoleapplication23\consoleapplication23\consoleapplication23.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication23.vcxproj -> C:\Users\user\source\repos\ConsoleApplication23\Debug\ConsoleApplication23.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project40\project40\source.cpp(15): error C2664: "size_t strlen(const char *)": невозможно преобразовать аргумент 1 из "char" в "const char *"
+  c:\users\user\source\repos\project40\project40\source.cpp(15): note: Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+c:\users\user\source\repos\project40\project40\source.cpp(18): error C2109: для индекса требуется массив или указатель
+c:\users\user\source\repos\project40\project40\source.cpp(21): error C2109: для индекса требуется массив или указатель

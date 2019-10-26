@@ -1,0 +1,6 @@
+﻿  Heap.cpp
+c:\users\user\source\repos\project68\project68\heap.cpp(113): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+c:\users\user\source\repos\project68\project68\source.cpp(63): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Project68.vcxproj -> C:\Users\user\source\repos\Project68\Debug\Project68.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project72\project72\source.cpp(20): warning C4101: buf: неиспользованная локальная переменная
+c:\users\user\source\repos\project72\project72\source.cpp(61): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project72.vcxproj -> C:\Users\user\source\repos\Project72\Debug\Project72.exe

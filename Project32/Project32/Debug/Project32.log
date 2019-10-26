@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project32\project32\source.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\project32\project32\source.cpp(14): warning C4477: "fscanf_s": в строке форматирования "%f" требуется аргумент типа "float *", но вариативный аргумент "1" имеет тип "double"
+  Project32.vcxproj -> C:\Users\user\source\repos\Project32\Debug\Project32.exe

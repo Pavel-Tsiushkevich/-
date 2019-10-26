@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project66\project66\source.cpp(151): warning C4101: a: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(153): warning C4101: py: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(153): warning C4101: sm: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(153): warning C4101: ob: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(153): warning C4101: pz: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(153): warning C4101: pr: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(152): warning C4101: j: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(152): warning C4101: i: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(152): warning C4101: n: неиспользованная локальная переменная
+c:\users\user\source\repos\project66\project66\source.cpp(70): warning C4715: find: значение возвращается не при всех путях выполнения
+  Project66.vcxproj -> C:\Users\user\source\repos\Project66\Debug\Project66.exe

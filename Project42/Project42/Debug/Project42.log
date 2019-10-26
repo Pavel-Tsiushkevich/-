@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project42\project42\source.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\project42\project42\source.cpp(50): warning C4018: <: несоответствие типов со знаком и без знака
+  Project42.vcxproj -> C:\Users\user\source\repos\Project42\Debug\Project42.exe

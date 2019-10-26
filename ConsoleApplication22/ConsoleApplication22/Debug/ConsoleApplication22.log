@@ -1,0 +1,3 @@
+﻿  ConsoleApplication22.cpp
+c:\users\user\source\repos\consoleapplication22\consoleapplication22\consoleapplication22.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ConsoleApplication22.vcxproj -> C:\Users\user\source\repos\ConsoleApplication22\Debug\ConsoleApplication22.exe

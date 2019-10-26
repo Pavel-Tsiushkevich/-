@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  ConsoleApplication21.cpp
+c:\users\user\source\repos\consoleapplication21\consoleapplication21\consoleapplication21.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication21.vcxproj -> C:\Users\user\source\repos\ConsoleApplication21\Release\ConsoleApplication21.exe

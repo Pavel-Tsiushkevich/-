@@ -1,0 +1,14 @@
+﻿  Source1.cpp
+Source1.obj : error LNK2005: "int __cdecl IsEmpty(struct list *)" (?IsEmpty@@YAHPAUlist@@@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "double __cdecl delete_element(struct list * &,double)" (?delete_element@@YANAAPAUlist@@N@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl input_element(struct list * &,double)" (?input_element@@YAXAAPAUlist@@N@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl input_in_file(struct list *)" (?input_in_file@@YAXPAUlist@@@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl menu(void)" (?menu@@YAXXZ) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl output_out_file(struct list * &)" (?output_out_file@@YAXAAPAUlist@@@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl printList(struct list *)" (?printList@@YAXPAUlist@@@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "void __cdecl search_value(struct list *,double)" (?search_value@@YAXPAUlist@@N@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "double __cdecl task_laba(struct list *)" (?task_laba@@YANPAUlist@@@Z) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: _main єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "struct list * first" (?first@@3PAUlist@@A) єцх юяЁхфхыхэ т Source.obj
+Source1.obj : error LNK2005: "int choice" (?choice@@3HA) єцх юяЁхфхыхэ т Source.obj
+C:\Users\user\source\repos\Project55\Debug\Project55.exe : fatal error LNK1169: юсэрЁєцхэ ьэюуюъЁрЄэю юяЁхфхыхээ√щ ёшьтюы - юфшэ шыш сюыхх

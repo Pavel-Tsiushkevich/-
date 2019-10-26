@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project12\project12\source.cpp(23): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+c:\users\user\source\repos\project12\project12\source.cpp(43): warning C4305: аргумент: усечение из "int" в "const _Elem"
+          with
+          [
+              _Elem=char
+          ]
+c:\users\user\source\repos\project12\project12\source.cpp(43): warning C4309: аргумент: усечение константного значения
+  Project12.vcxproj -> C:\Users\user\source\repos\Project12\Debug\Project12.exe

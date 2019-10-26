@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project64\project64\source.cpp(27): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\user\source\repos\project64\project64\source.cpp(25): warning C4715: fun1: значение возвращается не при всех путях выполнения
+  Project64.vcxproj -> C:\Users\user\source\repos\Project64\Debug\Project64.exe

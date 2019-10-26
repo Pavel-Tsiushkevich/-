@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\user\source\repos\project67\project67\source.cpp(59): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Project67.vcxproj -> C:\Users\user\source\repos\Project67\Debug\Project67.exe
